@@ -1,0 +1,1 @@
+(write (concatenate 'string "Hello, " "world!"))

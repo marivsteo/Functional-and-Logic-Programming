@@ -1,0 +1,1 @@
+All assignments plus the test at the end of the section, all regarding programming in Prolog.
